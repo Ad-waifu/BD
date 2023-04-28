@@ -1,5 +1,5 @@
 # Aproxima School
-![art   design](https://user-images.githubusercontent.com/130579356/235165412-dd9bb108-86a0-4d1e-996a-572eb0fe08b3.gif)
+![Black And White Modern Vintage Retro Brand Logo](https://user-images.githubusercontent.com/130579356/235180457-4ff55f69-e79b-4acf-a8a0-4e886b285d68.png)
 
 
 ## Discrição do Projeto
@@ -10,7 +10,10 @@ Projeto em desenvolvimento para disciplina de Linguagem de Programação e Banco
 
 ## Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 1`: 
+
+ Permite a coordenação publicar em uma pagina o comportamento dde cada aluno, a frequência nas aulas, as notas, e próximas atividade e avaliações 
+ 
 - `Funcionalidade 2`: descrição da funcionalidade 2
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
