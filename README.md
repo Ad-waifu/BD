@@ -8,7 +8,7 @@ Projeto em desenvolvimento para disciplina de Linguagem de Programação e Banco
 
 
 
-## Funcionalidades do projeto
+## :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: 
 
@@ -25,4 +25,12 @@ Os responsáveis dos alunos poderão somente aconpanhar o progresso do aluno, ve
 
 - `Funcionalidade 4`: 
 
-Os alunos teram acesso a 3 colunas, a `Primeira` tere as pontuações do aluno em cada matéria, a `Segunga` contendo a data que foi postada e a de tempo de entrega das atividades, das avaliações, e dos trabalhos em equipe, a `Terceira` possuirá um sistema de comunidade que os alunos podem usar para se comunicar com os alunos de outras salas, podendo assim tira dúvidas sobre o assunto que está sendo estudado, ou sobre as avaliações. 
+Os alunos teram acesso as notas, as avaliações atribuídas, trabalhos, seminários e a uma comunidade que não só poderam se comunicar com os professores, mais também com os outos alunos do mesmo curso tectécnico.
+
+
+
+
+
+
+
+
