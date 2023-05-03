@@ -22,9 +22,6 @@ Professores de cada disciplina podera criar salas virtuais e nelas postaram as p
 
 Os responsáveis dos alunos poderão somente aconpanhar o progresso do aluno, vendo as publicações que a coordenação postar.
 
-- `Funcionalidade 3a`: 
-
-Os responsáveis poderão notificar a coordenação caso o aluno não possa comparecer a unidade escola por qualquer motivos, caso o aluno vá ao médico ou em qualquer lugar que forneça atestado o responsável podera tirar foto do documentou e enviar diretamante para a coordenação.
 
 - `Funcionalidade 4`: 
 
