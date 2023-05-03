@@ -25,7 +25,7 @@ Os responsáveis dos alunos poderão somente aconpanhar o progresso do aluno, ve
 
 - `Funcionalidade 4`: 
 
-Os alunos teram acesso as notas, as avaliações atribuídas, trabalhos, seminários e a uma comunidade que não só poderam se comunicar com os professores, mais também com os outos alunos do mesmo curso tectécnico.
+Os alunos teram acesso as notas, as avaliações atribuídas, trabalhos, seminários e a uma comunidade que não só poderam se comunicar com os professores, mais também com os outos alunos do mesmo curso técnico.
 
 
 
