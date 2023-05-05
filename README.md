@@ -12,11 +12,11 @@ Projeto em desenvolvimento para disciplina de Linguagem de Programação e Banco
 
 - `Funcionalidade 1`: 
 
-Permite a coordenação publicar em uma pagina os comunicados, o comportamento de cada aluno, a frequência do aluno nas aulas, as notas, seminários, atividades e avaliações.
+Permite a coordenação publicar em uma página os comunicados, o comportamento de cada aluno, a frequência do aluno nas aulas, as notas, seminários, atividades e avaliações.
  
  - `Funcionalidade 2`:
 
-Professores de cada disciplina podera criar salas virtuais e nelas postaram as pontuação em cada unidade, proximos seminários, atividades e avaliações, e trabalhos em equipe.
+Professores de cada disciplina podera criar salas virtuais e nelas postaram as pontuação em cada unidade, próximos seminários, atividades e avaliações, e trabalhos em equipe.
 
 - `Funcionalidade 3`: 
 
@@ -24,12 +24,12 @@ Os responsáveis dos alunos poderão somente aconpanhar o progresso do aluno, ve
 
 - `Funcionalidade 4`: 
 
-Os alunos teram acesso as notas, as avaliações atribuídas, trabalhos e seminários tendo acesso a três colunas, a `Primeira` tera as pontuações do aluno em cada matéria, a `Segunda` contendo a data que foi postada e a de tempo de entrega das atividades, das avaliações, e dos trabalhos em equipe, a `Terceira` possuirá um sistema de comunidade que os alunos podem usar para se comunicar com os alunos de outras salas, podendo assim tira dúvidas sobre o assunto que está sendo estudado, ou sobre as avaliações. 
+Os alunos teram acesso as notas, as avaliações atribuídas, trabalhos e seminários tendo acesso a três colunas, a `Primeira` terá as pontuações do aluno em cada matéria, a `Segunda` contendo a data que foi postada e a de tempo de entrega das atividades, das avaliações, e dos trabalhos em equipe, a `Terceira` possuirá um sistema de comunidade que os alunos podem usar para se comunicar com os alunos de outras salas, podendo assim tira dúvidas sobre o assunto que está sendo estudado, ou sobre as avaliações. 
 
 
 ## ✔ Usabilidade do projeto
 
-Cada usuário sera capazes de utilizar o app de maneira fácil e prática. Nosso app permitira os usuários acesso rápido, prático e vantajoso, pois diminuirá a distância entre pais, coorcoordenação, e de como o aluno esta se desenvolvendo durante o período que estiva no colégio, os alunos terão uma acessibilidade ainda maior com os professores e colegas, mas não só o s da mesma sala como também os de outras turmas com estão no mesmso curso.
+Cada usuário será capaz de utilizar o app de maneira fácil e prática. Nosso app permitirá os usuários acesso rápido, prático e vantajoso, pois diminuirá a distância entre pais, coorcoordenação, e de como o aluno esta se desenvolvendo durante o período que estiva no colégio, os alunos terão uma acessibilidade ainda maior com os professores e colegas, mas não só os da mesma sala como também os de outras turmas com estão no mesmso curso.
 
 ## 🦾 Autores do Projeto 
 
