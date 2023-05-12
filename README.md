@@ -2,13 +2,13 @@
 ![Black And White Modern Vintage Retro Brand Logo](https://user-images.githubusercontent.com/130579356/235180457-4ff55f69-e79b-4acf-a8a0-4e886b285d68.png)
 
 
-## 🖊 Discrição do Projeto 
+## 🖊 Descrição  
 
 Projeto em desenvolvimento para disciplina de Linguagem de Programação e Banco de Dados. Aproxima School é um aplicativo de auxilio para gestores, pais e alunos no desenvolvimento escolar e monitoramento de atividades, avaliações, aprentações e fresquência, além do comportamento dentro da unidade escolar.
 
 
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Funcionalidades 
 
 - `Funcionalidade 1`: 
 
@@ -27,11 +27,11 @@ Os responsáveis dos alunos poderão somente aconpanhar o progresso do aluno, ve
 Os alunos teram acesso as notas, as avaliações atribuídas, trabalhos e seminários tendo acesso a três colunas, a `Primeira` terá as pontuações do aluno em cada matéria, a `Segunda` contendo a data que foi postada e a de tempo de entrega das atividades, das avaliações, e dos trabalhos em equipe, a `Terceira` possuirá um sistema de comunidade que os alunos podem usar para se comunicar com os alunos de outras salas, podendo assim tira dúvidas sobre o assunto que está sendo estudado, ou sobre as avaliações. 
 
 
-## ✔ Usabilidade do projeto
+## ✔ Usabilidade 
 
 Cada usuário será capaz de utilizar o app de maneira fácil e prática. Nosso app permitirá os usuários acesso rápido, prático e vantajoso, pois diminuirá a distância entre pais, coorcoordenação, e de como o aluno esta se desenvolvendo durante o período que estiva no colégio, os alunos terão uma acessibilidade ainda maior com os professores e colegas, mas não só os da mesma sala como também os de outras turmas com estão no mesmso curso.
 
-## 🦾 Autores do Projeto 
+## 🦾 Autores 
 
 - `Ana Beatriz Queiroz`
 - `Adson Sena`
