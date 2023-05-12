@@ -37,6 +37,7 @@ Cada usuário será capaz de utilizar o app de maneira fácil e prática. Nosso 
 - `Adson Sena`
 - `Rafael Neres`
 - `Jean Carlos`
+- `Ana Beatriz Santos`
 
 ## ⚙ Tecnologia Utilizada 
 
